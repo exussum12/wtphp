@@ -18,3 +18,5 @@ You want to add your own one? Create a snippet on http://3v4l.org and add it her
 * https://3v4l.org/f6B6D
 * https://3v4l.org/XGONZ - doubled implementation
 * https://3v4l.org/vZ5Cn
+* https://3v4l.org/op7VD - White space as class and function (nbsp)
+* https://3v4l.org/850qT - redefinding booleans (fixed in php 7)
